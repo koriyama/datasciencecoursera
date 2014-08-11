@@ -16,5 +16,6 @@ I wonder how many level headers this system has. In these lines, I'll increase t
 ######I have a sixth sense that this isn't going to work
 #######I'd be in seventh heaven if it did
 ########Aw, he's gone and ate up my confidence
-<b>STOP<\b>
+<b>STOP
+
 <i>Do HTML tags work here?</i>
